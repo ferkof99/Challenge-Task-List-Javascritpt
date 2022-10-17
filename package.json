@@ -1,0 +1,17 @@
+{
+  "name": "arrays-metodos",
+  "version": "1.0.0",
+  "description": "Metodos arrys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays"
+  ],
+  "author": "ffrancov",
+  "license": "ISC",
+  "devDependencies": {
+    "scanf": "^1.1.2"
+  }
+}
